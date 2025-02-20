@@ -4,6 +4,7 @@ Nguyên liệu cần có:
 - ESP8266 - https://s.shopee.vn/3q8Orm1hSu 47k VND
 - Module Max485 - https://s.shopee.vn/3foyfT2Knt - 10k VND
 - Dây mạng bấm 1 đầu, vài cọng dây nhỏ để kết nối 2 thiết bị với nhau
+- 1 cọng dây thun
 
 Sơ đồ đấu nối:
 
@@ -23,4 +24,7 @@ Cài đặt Arduino IDE trên máy tính, copy code ở file chisage_basic.ino, 
 
 
 https://github.com/user-attachments/assets/282079e5-1876-45cb-96da-997bd3567f51
+
+
+Ủa rồi cọng dây thun yêu cầu bên trên để làm gì?? Haha để chơi búng thun thôi nha chứ ko dùng trong dự án này =))
 
